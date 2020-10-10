@@ -1,0 +1,24 @@
+.my-form{
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+    margin: auto;
+}
+   
+.full-width {
+    width: 100%;
+}
+
+span {
+    margin: auto;
+}
+button {
+    margin-top: 15px;
+}
+.invalid-feedback {
+    margin-top: -18px;
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
